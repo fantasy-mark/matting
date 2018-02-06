@@ -1,0 +1,3 @@
+/home/mark/3531A抠图/3531A_Matting/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mark/3531A抠图/3531A_Matting/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mark/3531A抠图/3531A_Matting/src/cmake-build-debug/CMakeFiles/MATTING.dir
